@@ -48,7 +48,12 @@ pip install -r requirements.txt
 - Recall Score: 0.9974
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50111329/65390868-b1247200-dd62-11e9-93cb-f2f1bc0788c3.png" width="800px" alt="" title="Left: Pretrained InceptionV3 vs Right: Untrained InceptionV3">
+  <img src="https://user-images.githubusercontent.com/50111329/65390868-b1247200-dd62-11e9-93cb-f2f1bc0788c3.png" width="800px" alt="">
+</p>
+
+<p>The Confusion Matrix of the Second Model</p>
+<p align="center">
+  <img src="" width="400px" alt="">
 </p>
 
 ## Acknowledgements
