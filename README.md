@@ -47,7 +47,13 @@ pip install -r requirements.txt
 - Precision Score: 0.7988
 - Recall Score: 0.9974
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50111329/65390868-b1247200-dd62-11e9-93cb-f2f1bc0788c3.png" width="800px" alt="" title="Left: Pretrained InceptionV3 vs Right: Untrained InceptionV3">
+</p>
 
 ## Acknowledgements
 <p>My work was partially inspired by <a href="https://www.kaggle.com/aakashnain/beating-everything-with-depthwise-convolution">this</a> Kaggle Kernel and <a href="">this</a> Github Repository.</p>
+
+## Support, Questions or Bugs
+<p>Just write me an E-Mail: j-m.kezmann@t-online.de</p>
+<p>Or contact we via <a class="facebook" href="https://www.facebook.com/janmarcel.kezmann">facebook</a>.</p>
