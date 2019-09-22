@@ -32,7 +32,8 @@ pip install -r requirements.txt
 
 ## Results
 
-<p>Training the model with a on the imagenet dataset pretrained InceptionV3 model gives the follwing scores</p>
+<p>Training the model with a on the imagenet dataset pretrained InceptionV3 model gives the follwing scores:</p>
+
 - Accuracy: 0.7131
 - F1 Score: 0.7954
 - Precision Score: 0.7175
