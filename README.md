@@ -32,6 +32,20 @@ pip install -r requirements.txt
 
 ## Results
 
+<p>Training the model with a on the imagenet dataset pretrained InceptionV3 model gives the follwing scores</p>
+<p>Accuracy: 0.7131</p>
+<p>F1 Score: 0.7954</p>
+<p>Precision Score: 0.7175</p>
+<p>Recall Score: 0.8923</p>
+
+<p>Way better results gives us the untrained IncpetionV3 model</p>
+<p>Here we got the following results</p>
+<p>Accuracy: 0.8413</p>
+<p>F1 Score: 0.8871</p>
+<p>Precision Score: 0.7988</p>
+<p>Recall Score: 0.9974</p>
+
+
 
 ## Acknowledgements
 <p>My work was partially inspired by <a href="https://www.kaggle.com/aakashnain/beating-everything-with-depthwise-convolution">this</a> Kaggle Kernel and <a href="">this</a> Github Repository.</p>
