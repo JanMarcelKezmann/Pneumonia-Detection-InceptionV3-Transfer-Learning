@@ -34,4 +34,4 @@ pip install -r requirements.txt
 
 
 ## Acknowledgements
-<p>My work was partially inspired by <a href="https://www.kaggle.com/aakashnain/beating-everything-with-depthwise-convolution">this</a> Kaggle Kernel and <a href="">this Github Repository.</p>
+<p>My work was partially inspired by <a href="https://www.kaggle.com/aakashnain/beating-everything-with-depthwise-convolution">this</a> Kaggle Kernel and <a href="">this</a> Github Repository.</p>
