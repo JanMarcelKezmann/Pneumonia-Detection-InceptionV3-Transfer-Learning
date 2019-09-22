@@ -52,8 +52,8 @@ pip install -r requirements.txt
 </p>
 
 <p>The Confusion Matrix of the Second Model</p>
-<p align="center">
-  <img src="" width="400px" alt="">
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/50111329/65390959-a1f1f400-dd63-11e9-868c-0e8c52a1d4b7.png" width="400px" alt="">
 </p>
 
 ## Acknowledgements
