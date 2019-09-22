@@ -39,12 +39,13 @@ pip install -r requirements.txt
 - Precision Score: 0.7175
 - Recall Score: 0.8923
 
-<p>Way better results gives us the untrained IncpetionV3 model</p>
-<p>Here we got the following results</p>
-<p>Accuracy: 0.8413</p>
-<p>F1 Score: 0.8871</p>
-<p>Precision Score: 0.7988</p>
-<p>Recall Score: 0.9974</p>
+<p>We get a lot better results if we use only the untrained InceptionV3 as a base model and train all of it.</p>
+<p>Here we got the following results:</p>
+
+- Accuracy: 0.8413
+- F1 Score: 0.8871
+- Precision Score: 0.7988
+- Recall Score: 0.9974
 
 
 
